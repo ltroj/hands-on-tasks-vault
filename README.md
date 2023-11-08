@@ -12,13 +12,34 @@ Try it out, adjust what you don't like – Obsidian and its excellent community 
 
 In case you‘re in need for a customized vault configuration [drop me an email](mailto:ltroj@posteo.de) and maybe we can work something out.
 
+## 🎞️ Screenshots
 
-> [!Important]
-> This vault contains a lot of tasks and notes. Please make sure Obsidian has finished indexing before exploring.
+### Tasks agenda in sidebar
+
+![screenshot 1](https://github.com/ltroj/hands-on-tasks-vault/blob/main/screenshots/welcome_and_sidebar-agenda.png?raw=true)
+
+### Agenda notes
+
+![screenshot 2](https://github.com/ltroj/hands-on-tasks-vault/blob/main/screenshots/all-tasks-agenda.png?raw=true)
+
+### Kanban style view
+
+![screenshot 3](https://github.com/ltroj/hands-on-tasks-vault/blob/main/screenshots/cardboard_persons.png?raw=true)
+
+### Tasks from different notes
+
+![screenshot 4](https://github.com/ltroj/hands-on-tasks-vault/blob/main/screenshots/meeting-note.png?raw=true)
+
+![screenshot 5](https://github.com/ltroj/hands-on-tasks-vault/blob/main/screenshots/daily.png?raw=true)
+
+![screenshot 6](https://github.com/ltroj/hands-on-tasks-vault/blob/main/screenshots/project-note.png?raw=true)
 
 ---
 
 ## 🚀 Getting started
+
+> [!Important]
+> This vault contains a lot of tasks and notes. Please make sure Obsidian has finished indexing before exploring.
 
 ### Creating tasks
 
@@ -48,11 +69,12 @@ Note: This vault uses a feature of the Task Plugin called "Custom Statuses" to i
 
 The cool thing about the Tasks plugin is that tasks can be cluttered in notes throughout the vault. You can easily collect them by using simple queries like this:
 
-````
+```
 ```tasks
 tags include #Project/myProject
 ```
-````
+
+```
 
 which shows all tasks assigned to that tag:
 
@@ -69,11 +91,11 @@ Enhancing tasks with tags makes them easily accessible and is useful when workin
 You can make the system as complex as you like, but three tags are usually enough for me:
 
 - 🗂️ Project, Context or Topic
-	- e.g. #Project/myProject or #Context/Personal
+  - e.g. #Project/myProject or #Context/Personal
 - 👤 Person (if the task is assigned to someone else, or is closely related to another person)
-	- e.g. #👤/Mendoza-Jack
+  - e.g. #👤/Mendoza-Jack
 - ⏳ Status (if further explanation in addition to the custom status is needed)
-	- e.g. #Status/info-requested/by-mail/2024-03-03 or #Status/ready-for-release/2024/03/03
+  - e.g. #Status/info-requested/by-mail/2024-03-03 or #Status/ready-for-release/2024/03/03
 
 That's it!
 
