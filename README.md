@@ -1,12 +1,8 @@
-# hands-on-tasks-vault
- An Obsidian demo vault to help getting started with managing tasks in your 'second brain'.
+An Obsidian demo vault to help getting started with managing tasks in your 'second brain'.
 
----
-tags: Topic/hands-on-tasks
-cssclasses: default-note
-title: Welcome...
-obsidianUIMode: preview
----
+- - -
+
+# Welcome...
 
 …to my »hands-on tasks« vault ✨
 
@@ -42,8 +38,7 @@ This 👆 is a task in progress, with high priority that recurs every week with 
 
 It renders like this in Obsidian:
 
-> [!Todo]+ A task
-> - [/] This is a task for #Project/myProject ⏫ 🔁 every week 📅 2099-01-01
+![screenshot of a task](https://github.com/ltroj/hands-on-tasks-vault/blob/main/screenshots/task-render-1.png?raw=true)
 
 Use the `Tasks: Create or edit` command to open a neat GUI which makes it easy to create and edit tasks.
 
@@ -61,12 +56,7 @@ tags include #Project/myProject
 
 which shows all tasks assigned to that tag:
 
-> [!Todo]+ Query to show all tasks with specific tag
->
-> ```tasks
-> tags include #Project/myProject
-> shortmode
-> ```
+![screenshot of a task list](https://github.com/ltroj/hands-on-tasks-vault/blob/main/screenshots/task-render-2.png?raw=true)
 
 We won't go into further detail in this short intro so check out the [User Guide](https://publish.obsidian.md/tasks/Queries/About+Queries#About+Queries) to find everything there is to know about queries and the tasks syntax.
 
@@ -85,24 +75,18 @@ You can make the system as complex as you like, but three tags are usually enoug
 - ⏳ Status (if further explanation in addition to the custom status is needed)
 	- e.g. #Status/info-requested/by-mail/2024-03-03 or #Status/ready-for-release/2024/03/03
 
-Here are some examples:
-
-- [ ] Wake up and question your life choices. #Context/Everyday 🔼 ⏳ 2026-10-21 📅 2026-10-22
-- [>] Solve problem involving rotational kinematics. #Project/myProject #👤/Singh-Ivy #Status/info-requested/by-mail
-- [/] Learn about the classification and taxonomy of plants. #Project/myProject #Status/work-in-progress ⏬ ⏳ 2023-10-28 📅 2023-10-29
-
 That's it!
 
 - - - 
 
 ## 📌 So – where do I put my tasklist?
 
-I like to jot my tasks down where they cross my mind. Usually that's in my [[2025-12-31|Daily Notes]], [[Some project notes|Project Notes]] or in a [[A meeting note|Meeting Note]]. Tasks can be spread across many notes – as long as they're in the vault you can query them.
+I like to jot my tasks down where they cross my mind. Usually that's in my **Daily Notes,** **Project Notes** or in a **Meeting Note**. Tasks can be spread across many notes – as long as they're in the vault you can query them.
 
 For displaying aggregated tasks this demo vault shows three useful possibilities:
 
 - Dedicated agenda notes (like the one you find in the bottom right sidebar)
-- Queries in notes such as [[2025-12-31|Daily Notes]]
+- Queries in notes such as **Daily Notes**
 - Kanban-style board views using the [Cardboard Plugin](https://github.com/roovo/obsidian-card-board#obsidian-cardboard-plugin)
 
 > [!Warning]
