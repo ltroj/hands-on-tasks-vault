@@ -23,28 +23,14 @@
             }
           },
           {
-            "id": "ec02a5771d1a95ef",
+            "id": "03a5741997db4b6b",
             "type": "leaf",
             "state": {
               "type": "card-board-view",
               "state": {}
             }
-          },
-          {
-            "id": "3cb0def452b46226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Some project notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
       {
         "id": "bd891af6c2418fbf",
         "type": "tabs",
-        "dimension": 25.839793281653744,
+        "dimension": 25.83979328165374,
         "children": [
           {
             "id": "0bf381a92f471a67",
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Some project notes.md"
+                "file": "Welcome....md"
               }
             }
           },
@@ -149,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Some project notes.md"
+                "file": "Welcome....md"
               }
             }
           },
@@ -159,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Some project notes.md",
+                "file": "Welcome....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some project notes.md",
+                "file": "Welcome....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Some project notes.md",
+                "file": "Welcome....md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,21 +244,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "card-board:CardBoard": false,
       "daily-notes:Open today's daily note": false,
-      "cmdr:Minimal Theme Settings: Switch between light and dark mode": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "templates:Insert template": true,
       "graph:Open graph view": true,
-      "workspaces:Manage workspace layouts": true
+      "workspaces:Manage workspace layouts": true,
+      "cmdr:Minimal Theme Settings: Switch between light and dark mode": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "3cb0def452b46226",
+  "active": "ba5c34aee7ea2a5d",
   "lastOpenFiles": [
-    "Sidebar notes/Task-Sidebar.md",
     "Some project notes.md",
+    "Sidebar notes/Task-Sidebar.md",
     "Daily Notes/2024/2024-12-24.md",
     "Sidebar notes/Obsidian Callouts.md",
     "All Tasks (Agenda by Due dates).md",
