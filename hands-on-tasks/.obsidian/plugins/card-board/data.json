@@ -1,0 +1,116 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "Project/classicMechanics",
+              "displayTitle": "Project: classicMechanics"
+            },
+            {
+              "tag": "Project/Botany",
+              "displayTitle": "Project: Botany"
+            },
+            {
+              "tag": "Project/Philosophy-101",
+              "displayTitle": "Project: Philosophy-101"
+            }
+          ],
+          "showColumnTags": false,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Daily Notes/2023"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": false,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "🗂️ Tasks by Project",
+          "collapsedColumns": [
+            4
+          ]
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "👤/Mendoza-Jack",
+              "displayTitle": "👤 Mendoza-Jack"
+            },
+            {
+              "tag": "👤/Singh-Ivy",
+              "displayTitle": "👤 Singh-Ivy"
+            },
+            {
+              "tag": "👤/Sato-David",
+              "displayTitle": "👤 Sato-David"
+            },
+            {
+              "tag": "👤/Müller-Hannah",
+              "displayTitle": "👤 Müller-Hannah"
+            }
+          ],
+          "showColumnTags": false,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Daily Notes/2023"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": false,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "👤 Tasks by Person",
+          "collapsedColumns": [
+            4
+          ]
+        }
+      },
+      {
+        "tag": "dateBoardConfig",
+        "data": {
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Daily Notes/2024"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": false,
+          "includeUndated": false,
+          "title": "📅 Tasks by Date",
+          "collapsedColumns": [
+            3
+          ]
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianTasks",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}

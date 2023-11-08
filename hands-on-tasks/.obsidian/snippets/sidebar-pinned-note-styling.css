@@ -1,0 +1,62 @@
+/* Sidebar notes in Reading (Preview) mode */
+.mod-right-split .markdown-preview-view.markdown-rendered.sidebar-note {
+  padding: 0;
+}
+
+.mod-right-split .markdown-preview-view.markdown-rendered.sidebar-note .inline-title {
+  display: none;
+}
+
+.mod-right-split .markdown-preview-view.markdown-rendered.sidebar-note .markdown-preview-sizer {
+  margin: 0;
+  padding-left: 1.5em;
+  --max-width: 100%;
+}
+
+.mod-right-split .markdown-preview-view.markdown-rendered.sidebar-note .markdown-preview-sizer .frontmatter-container {
+	display: none;
+}
+
+.mod-right-split .markdown-preview-view.markdown-rendered.sidebar-note h2 {
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  font-size: var(--font-adaptive-smallest);
+  font-family: var(--font-interface);
+}
+
+.mod-right-split .markdown-preview-view.markdown-rendered.sidebar-note ul {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+/* Sidebar notes in Live Preview */
+.mod-right-split .markdown-source-view.is-live-preview.sidebar-note .cm-header-2 {
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  font-size: var(--font-adaptive-smallest) !important;
+  font-family: var(--font-interface);
+}
+
+.mod-right-split .markdown-source-view.is-live-preview.sidebar-note .cm-gutters {
+  display: none;
+}
+
+.mod-right-split .markdown-source-view.is-live-preview.sidebar-note .cm-line .cm-fold-indicator.is-collapsed {
+  display: none;
+}
+
+.mod-right-split .markdown-source-view.is-live-preview.sidebar-note .inline-title {
+  display: none;
+}
+
+.mod-right-split .markdown-source-view.is-live-preview.sidebar-note .cm-scroller {
+  margin-left: 0;
+  padding-left: 0;
+  --max-width: 100%;
+}

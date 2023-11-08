@@ -1,0 +1,22 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "sidebar-callout",
+    "dropcap",
+    "custom-callouts",
+    "Better_Fronmtatter_View",
+    "supercharged-links-gen",
+    "custom-notes",
+    "sidebar-pinned-note-styling",
+    "tag_colors",
+    "cardboard-tweaks",
+    "tag-colors"
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": false
+}

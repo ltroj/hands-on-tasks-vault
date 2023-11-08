@@ -1,0 +1,35 @@
+.tag[href^="#👤"] {
+  color: white;
+  background-color: #1a7c7c;
+}
+.tag[href^="#👤"]:hover {
+  color: white !important;
+  background-color: #539595;
+}
+
+.tag[href^="#Project"] {
+  color: white;
+  background-color: #F0567D;
+}
+.tag[href^="#Project"]:hover {
+  color: white;
+  background-color: #F47C9A;
+}
+
+.tag[href^="#Context"] {
+  color: white;
+  background-color: #375246;
+}
+.tag[href^="#Context"]:hover {
+  color: white;
+  background-color: #456758;
+}
+
+.tag[href^="#Status"] {
+  color: white;
+  background-color: #3e5877;
+}
+.tag[href^="#Status"]:hover {
+  color: white;
+  background-color: #506784;
+}

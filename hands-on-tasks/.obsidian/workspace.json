@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "7f7b646e5a200342",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20a2b917ac80f4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5c34aee7ea2a5d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome....md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ec02a5771d1a95ef",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cb0def452b46226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Some project notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c0a8434923c06d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a28599f253e328a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83bc04dfc77068ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "e73d387127c0ac2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfe0aa2a1dde0c53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "88198196d7e43d4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd891af6c2418fbf",
+        "type": "tabs",
+        "dimension": 25.839793281653744,
+        "children": [
+          {
+            "id": "0bf381a92f471a67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95219e5f459d0f62",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a11a92953f01270",
+        "type": "tabs",
+        "dimension": 34.883720930232556,
+        "children": [
+          {
+            "id": "3d266c19951a5847",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Some project notes.md"
+              }
+            }
+          },
+          {
+            "id": "1bf2609f45e7bf46",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Some project notes.md"
+              }
+            }
+          },
+          {
+            "id": "936f1f338070d5b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Some project notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "582af9e2281d0d09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Some project notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c04073eb50bcc513",
+        "type": "tabs",
+        "dimension": 39.276485788113696,
+        "children": [
+          {
+            "id": "46b9212bd60cb60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sidebar notes/Task-Sidebar.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdd94ce13d71440c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sidebar notes/Obsidian Callouts.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c66ade0953fd9dd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Some project notes.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4942186733452345,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "card-board:CardBoard": false,
+      "daily-notes:Open today's daily note": false,
+      "cmdr:Minimal Theme Settings: Switch between light and dark mode": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": true,
+      "graph:Open graph view": true,
+      "workspaces:Manage workspace layouts": true
+    }
+  },
+  "active": "3cb0def452b46226",
+  "lastOpenFiles": [
+    "Sidebar notes/Task-Sidebar.md",
+    "Some project notes.md",
+    "Daily Notes/2024/2024-12-24.md",
+    "Sidebar notes/Obsidian Callouts.md",
+    "All Tasks (Agenda by Due dates).md",
+    "All Tasks (Agenda by status type).md",
+    "A meeting note.md",
+    "Welcome....md",
+    "Daily Notes/2023/2023-11-08.md",
+    "2023-11-08.md",
+    "Daily Notes/2025/2025-10-15.md",
+    "Daily Notes/2025/2025-10-14.md",
+    "Daily Notes/2025/2025-10-13.md",
+    "Daily Notes/2025/2025-10-12.md",
+    "Daily Notes/2025/2025-10-11.md",
+    "Daily Notes/2025/2025-10-10.md",
+    "Daily Notes/2025/2025-10-09.md",
+    "Daily Notes/2025/2025-10-08.md",
+    "Daily Notes/2025/2025-10-07.md",
+    "Daily Notes/2025/2025-10-06.md",
+    "Daily Notes/2025/2025-10-05.md",
+    "Daily Notes/2025/2025-10-04.md",
+    "Daily Notes/2025/2025-10-03.md",
+    "Daily Notes/2025/2025-10-02.md",
+    "Daily Notes/2025/2025-10-01.md",
+    "Daily Notes/2025/2025-09-30.md",
+    "Daily Notes/2025",
+    "Daily Notes/2024",
+    "Daily Notes/2023",
+    "Pile of tasks/Everyday todo.md_",
+    "Pile of tasks/Botany todo.md_",
+    "templates_work_vault.zip",
+    "Pile of tasks",
+    "Sidebar notes",
+    "Daily Notes",
+    "_templates",
+    "_resources/pexels-markus-spiske-6278625.jpg",
+    "_resources/GREY1_75bbb9d0-7282-4b10-8cbb-51b5e3c63570_1000x.webp",
+    "_resources/cb547014b2258172e9410b604178b2d1.png",
+    "_resources/darche-futura-140-dachzelt~2.png",
+    "_resources/darche-futura-140-dachzelt.png",
+    "_resources/darche-futura-140-dachzelt~3.png",
+    "_resources/darche-futura-140-dachzelt~4.png",
+    "_resources/darche-futura-140-dachzelt~5.png",
+    "_resources/darche-futura-140-dachzelt~6.png",
+    "_resources/Pasted image 20230711230449.png"
+  ]
+}

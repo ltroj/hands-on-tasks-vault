@@ -1,0 +1,86 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": "_templates",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "790b-74b3",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Type/Meeting-Note",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "b072-660e",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Type/Agenda",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "fe67-61a1",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Type/Project-Note",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "0d45-43cc",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Type/Daily",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "6526-8bde",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Topic/hands-on-tasks",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f466-2ade",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    }
+  ]
+}

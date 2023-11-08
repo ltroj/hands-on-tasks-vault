@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "d4fb3d82a437bd3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "20344ee40b99cb2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e069f286e97273c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering/Engineering Knowledge/Wechselstrom_Drehstrom.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc80082314ae93a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d71843c0e319ff56",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b4dde4b3495f2e3b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Magnet",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a2cd5602a8620067",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "49f6ab3b1d0d9c93",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "8cb88d8977c4ee01",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "5b33aabfe6016644",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9231f16506cb6e80",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Engineering/Engineering Knowledge/Wechselstrom_Drehstrom.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "884e540df56865d6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Engineering/Engineering Knowledge/Wechselstrom_Drehstrom.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "06a1c851aaafc2d5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Engineering/Engineering Knowledge/Wechselstrom_Drehstrom.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e069f286e97273c6",
+  "lastOpenFiles": [
+    "_templates/Startnote.md",
+    "Engineering/Engineering Knowledge/Widerstandsmomente für Torsion.md",
+    "Interesting as Fuck/Anthropodermic bibliopegy.md",
+    "_templates/Blindtext.md",
+    "_templates/Untitled.md",
+    "Meine liebe Lou (2).md"
+  ]
+}

@@ -1,0 +1,17 @@
+/* Modify the CardBoard view */
+
+.card-board-view {
+  font-size: 0.8em !important;
+}
+
+.card-board-view .card-board-column {
+  /*width: 20em;*/
+}
+
+.card-board-card {
+  font-size: 1em !important;
+}
+.card-board-card-title {
+  font-weight: normal !important;
+  font-size: 0.9em;
+}

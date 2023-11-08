@@ -1,0 +1,19 @@
+.callout[data-callout="sidebar"] {
+    /* TODO: I'd like the callout color to 
+     * match the vault's accent color.  
+     * But I don't know how to convert 
+     * var(--color-accent) to r, g, b. 
+     * For now we'll use a sort of 
+     * yellow sticky-note color. */
+    --callout-color: 189, 142, 55;
+    --callout-icon: lucide-info;
+    max-width: 40%;
+    float: right;
+    margin: 12px;
+}
+
+.callout[data-callout="⟶"] {
+    --callout-color: 100, 100, 100;
+    --callout-icon: lucide-link;
+	margin-top: 3em;
+}
