@@ -69,12 +69,11 @@ Note: This vault uses a feature of the Task Plugin called "Custom Statuses" to i
 
 The cool thing about the Tasks plugin is that tasks can be cluttered in notes throughout the vault. You can easily collect them by using simple queries like this:
 
-```
+````
 ```tasks
 tags include #Project/myProject
 ```
-
-```
+````
 
 which shows all tasks assigned to that tag:
 
