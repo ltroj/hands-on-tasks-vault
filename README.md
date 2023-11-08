@@ -13,7 +13,7 @@ Try it out, adjust what you don't like – Obsidian and its excellent community 
 In case you‘re in need for a customized vault configuration [drop me an email](mailto:ltroj@posteo.de) and maybe we can work something out.
 
 
-> [!hint] Vault indexing
+> [!IMPORTANT] Vault indexing
 > This vault contains a lot of tasks and notes. Please make sure Obsidian has finished indexing before exploring.
 
 ---
