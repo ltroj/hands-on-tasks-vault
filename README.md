@@ -2,7 +2,7 @@ An Obsidian demo vault to help getting started with managing tasks in your 'seco
 
 - - -
 
-# Welcome...
+# ✅ Welcome...
 
 …to my »hands-on tasks« vault ✨
 
